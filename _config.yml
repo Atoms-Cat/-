@@ -1,12 +1,1 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - README.md
-  - index/collect/janus.md
-  - index/collect/kurento.md
-  - index/collect/reference.md
-title: SoftSwitch-Gateway Docs
 theme: jekyll-theme-cayman

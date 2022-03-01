@@ -1,4 +1,4 @@
 # Reference
 
-### [kurento](https://github.com/Atoms-Cat/-/edit/main/index/collect/kurento.md)
-
+* [kurento](https://atoms-cat.github.io/docs/index/collect/kurento)
+* [janus](https://atoms-cat.github.io/docs/index/collect/janus)
