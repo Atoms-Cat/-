@@ -8,5 +8,6 @@ include:
   - index/collect/janus.md
   - index/collect/kurento.md
   - index/collect/reference.md
+url: https://github.com/Atoms-Cat/softswitch-gateway
 title: SoftSwitch-Gateway
 theme: jekyll-theme-cayman
