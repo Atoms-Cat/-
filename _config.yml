@@ -3,14 +3,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
-  - README.md
-  - index/collect/janus.md
-  - index/collect/kurento.md
-  - index/collect/reference.md
-  - index/opensips/Docker-OpenSips 2.4.x.md
-  - index/opensips/Docker-OpenSips 3.2.x.md
-  - index/opensips/opensips.md
 url: https://github.com/Atoms-Cat/softswitch-gateway
 title: atom`s cat notion
 theme: jekyll-theme-cayman
