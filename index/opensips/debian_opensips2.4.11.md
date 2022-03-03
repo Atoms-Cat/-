@@ -47,9 +47,9 @@ make prefix=/tools/install/opensips menuconfig
 
 （左右键进入返回，空格键选中（*），回车键确定）
 
-![引导首页](https://upload-images.jianshu.io/upload_images/9484023-68fff2b8d44bd7e1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![进入“配置编译选项”的主页](https://upload-images.jianshu.io/upload_images/9484023-0778aeae7b9e6ac0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![模块配置](https://upload-images.jianshu.io/upload_images/9484023-be8079bff80e7192.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![引导首页](img/9484023-68fff2b8d44bd7e1.png)
+![进入“配置编译选项”的主页](img/9484023-0778aeae7b9e6ac0.png)
+![模块配置](img/9484023-be8079bff80e7192.png)
 
 ### 5、配置数据源
 修改配置文件：/tools/install/opensips/etc/opensips/opensipsctlrc
