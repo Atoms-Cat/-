@@ -12,5 +12,5 @@ include:
   - index/opensips/Docker-OpenSips 3.2.x.md
   - index/opensips/opensips.md
 url: https://github.com/Atoms-Cat/softswitch-gateway
-title: SoftSwitch-Gateway
+title: atom`s cat notion
 theme: jekyll-theme-cayman
