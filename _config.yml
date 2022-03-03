@@ -3,6 +3,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-url: https://github.com/Atoms-Cat/softswitch-gateway
 title: atom`s cat notion
 theme: jekyll-theme-cayman
+github:
