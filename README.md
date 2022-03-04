@@ -3,3 +3,4 @@
 
 ### Audio and video
 * [opensips](index/opensips/opensips.md)
+* [freeswitch](index/freeswitch/freeswitch.md)
