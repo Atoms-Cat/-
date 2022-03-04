@@ -50,3 +50,13 @@ fs_cli api
 bgapi originate {codec_string=^^:PCMU:PCMA}sofia/gateway/mygateway/mynumber
 ```
 
+* 4、Rewriting SDP
+
+重写SDP，switch_r_sdp:
+```xml
+<action application="set">
+<![CDATA[switch_r_sdp=(sdp here)
+ ]]>
+</action>
+```
+
